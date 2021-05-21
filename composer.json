@@ -1,0 +1,11 @@
+{
+    "name": "apyuro/hexlet-php",
+    "description": "Test project",
+    "authors": [
+        {
+            "name": "Andrey Pyuro",
+            "email": "apyuro@yandex.ru"
+        }
+    ],
+    "require": {}
+}
